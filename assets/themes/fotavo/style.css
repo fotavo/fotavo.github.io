@@ -4534,3 +4534,7 @@ body.modal-open {
   font-weight: bold;
   margin-top: 15px;
 }
+
+.posts{
+  min-height: 400px;
+}

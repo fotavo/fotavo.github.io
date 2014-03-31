@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Hello world"
+title: Hello world
 description: ""
-category:
+category: null
 tags: []
+published: true
+tagline: asdfsadf
 ---
 {% include JB/setup %}
 
 This is a blog.
+
+
+asdfasdf
